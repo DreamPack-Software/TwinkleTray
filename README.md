@@ -3,7 +3,7 @@ Twinkle Tray is a lightweight, open-source Windows application that lets you con
 It supports both internal and external monitors, making brightness control fast, precise, and perfect for multi-monitor setups.
 # [Go to Releases and get one of a version](https://github.com/DreamPack-Software/TwinkleTray/releases)
 ## 🚀 Features
-\/\/\/\/\/\/\/
+
 2. 🎛️ Per-monitor brightness control
 
 3. 🖥️ Works with external & internal displays
@@ -26,7 +26,7 @@ Twinkle Tray fixes that by giving you full control with a clean UI and zero bloa
 If you run multiple displays, this makes life easier.
 
 ## 🛠️ Usage
-\/\/\/\/\/\/
+
 - Click the system tray icon to change brightness
 
 - Use hotkeys for instant control
